@@ -7,3 +7,5 @@ add_executable(leetcode_training main.cpp)
 
 add_executable(1 content/1.cpp)
 add_executable(089_打家劫舍 LCR/089_打家劫舍.cpp)
+add_executable(090_打家劫舍2 LCR/090_打家劫舍2.cpp)
+add_executable(124_推理二叉树 LCR/124_推理二叉树.cpp)
