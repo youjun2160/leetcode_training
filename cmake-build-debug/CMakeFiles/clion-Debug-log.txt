@@ -23,4 +23,22 @@ CMake Error at CMakeLists.txt:12 (add_executable):
   behavior.
 
 
+CMake Error at CMakeLists.txt:13 (add_executable):
+  The target name "2529_正整数和负整数的最大计数" is reserved or
+  not valid for certain CMake features, such as generator expressions, and
+  may result in undefined behavior.
+
+
+CMake Error at CMakeLists.txt:14 (add_executable):
+  The target name "142_训练计划Ⅳ" is reserved or not valid for certain
+  CMake features, such as generator expressions, and may result in undefined
+  behavior.
+
+
+CMake Error at CMakeLists.txt:15 (add_executable):
+  The target name "7_整数反转" is reserved or not valid for certain CMake
+  features, such as generator expressions, and may result in undefined
+  behavior.
+
+
 -- Configuring incomplete, errors occurred!
