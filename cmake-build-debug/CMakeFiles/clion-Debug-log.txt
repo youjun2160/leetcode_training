@@ -41,4 +41,16 @@ CMake Error at CMakeLists.txt:15 (add_executable):
   behavior.
 
 
+CMake Error at CMakeLists.txt:16 (add_executable):
+  The target name "1702_修改后的最大二进制字符串" is reserved or
+  not valid for certain CMake features, such as generator expressions, and
+  may result in undefined behavior.
+
+
+CMake Error at CMakeLists.txt:17 (add_executable):
+  The target name "91_解码方法" is reserved or not valid for certain
+  CMake features, such as generator expressions, and may result in undefined
+  behavior.
+
+
 -- Configuring incomplete, errors occurred!
